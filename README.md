@@ -2,7 +2,7 @@
 
 ## Mathematics & Computer Science @ Maryville College
 
-Math & Data Analytics Intern at P2C \
+Math & Data Analytics Intern at P2C
 
 IT Intern at Tech Nav
 
