@@ -1,4 +1,4 @@
-# Braxton Churchwell
+# Braxton Churchwell II
 
 ## Mathematics & Computer Science Junior @ Maryville College
 
