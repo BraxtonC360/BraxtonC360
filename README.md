@@ -3,6 +3,7 @@
 ## Mathematics & Computer Science @ Maryville College
 
 Math & Data Analytics Intern at P2C \
+\
 IT Intern at Tech Nav
 
 Currently working on [Prometheus](https://github.com/Entropy0917/Project-Prometheus)
