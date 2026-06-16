@@ -9,6 +9,6 @@ Currently working on [Prometheus](https://github.com/Entropy0917/Project-Prometh
 
 Python, Java, Assembly, Linux*, Cloud Infrastructure, Networking
 
-*(Ubuntu / Ubuntu Server, Mint, System Rescue
+*(Ubuntu / Ubuntu Server, Mint, System Rescue)
 
 [My Portfolio](braxtons.space)
