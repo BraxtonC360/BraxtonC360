@@ -2,9 +2,9 @@
 
 ## Mathematics & Computer Science Junior @ Maryville College
 
-IT Technician at Tech Nav
+IT Technician at [Tech Nav](https://www.technav.org/)
 
-Math & Data Analytics Intern at P2C
+Math & Data Analytics Intern at [P2C](https://p2c.org/)
 
 Currently working on [Prometheus](https://github.com/Entropy0917/Project-Prometheus) and [Tech Nav's Internal Storage System](https://github.com/BraxtonC360/TechNav-Storage)
 
