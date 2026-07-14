@@ -2,7 +2,7 @@
 
 ## Mathematics & Computer Science Junior @ Maryville College
 
-IT Technician at [Tech Nav](https://www.technav.org/)
+IT Infra Engineer/ Technician at [Tech Nav](https://www.technav.org/)
 
 Math & Data Analytics Intern at [P2C](https://p2c.org/)
 
