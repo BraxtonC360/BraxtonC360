@@ -2,15 +2,15 @@
 
 ## Mathematics & Computer Science Junior @ Maryville College
 
-IT Infra Engineer/ Technician at [Tech Nav](https://www.technav.org/)
+IT Technician at [Tech Nav](https://www.technav.org/)
 
-Math & Data Analytics Intern at [P2C](https://p2c.org/)
+IT Intern at [SL](https://slworld.com/index_eng.php)
 
-Currently working on [Prometheus](https://github.com/Entropy0917/Project-Prometheus) and [Tech Nav's Internal Storage System](https://github.com/BraxtonC360/TechNav-Storage)
+Currently working on [Prometheus](https://github.com/Entropy0917/Project-Prometheus)
 
 Working on obtaining Network+ and CCNA
 
-## Skills
+## Interests and Skills
 
 ### Languages:
 
